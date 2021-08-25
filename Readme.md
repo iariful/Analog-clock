@@ -5,6 +5,6 @@ This is a simple analog clock.
 - CSS
 - JavaScript
 - VS Code 
-<br>
-![img](https://user-images.githubusercontent.com/82101597/130826815-e52c9cc5-5254-42cc-b12b-7632420e4487.png)
-l)
+
+### Screenshot of this project 
+![alt text](https://user-images.githubusercontent.com/82101597/130827212-6744a9a4-4eee-42d4-ace0-8229c1d5841b.png)
