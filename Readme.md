@@ -6,4 +6,5 @@ This is a simple analog clock.
 - JavaScript
 - VS Code 
 <br>
-![](C:\Users\Lenovo\Desktop\Digital-clock\img.png)
+![img](https://user-images.githubusercontent.com/82101597/130826815-e52c9cc5-5254-42cc-b12b-7632420e4487.png)
+l)
